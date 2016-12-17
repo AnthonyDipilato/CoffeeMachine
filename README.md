@@ -1,6 +1,6 @@
     Coffee Machine
     
-    This is project is the running on my home built coffee machine
+    This is project is the arduino code running my home built coffee machine.
     You can see the  build log and details for the project at [url]
     
     The arduino controls all functions for the coffee machine.
