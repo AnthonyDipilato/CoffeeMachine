@@ -5,8 +5,8 @@ You can see the  build log and details for the project at [url]
     
 The arduino controls all functions for the coffee machine.
 Inputs include:
-- 3 buttons
-- switch
+- 3 momentary buttons
+- Switch
 - Rotary encoder with push button
 - Max6675 Thermocontroller
 
