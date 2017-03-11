@@ -1,11 +1,11 @@
 Coffee Machine
     
 This is project is the arduino code running my home built coffee machine.
-You can see the  build log and details for the project at [url]
+You can see the  build log and details for the project at [http://anthonydipilato.com/2016/10/20/coffee-machine/](http://anthonydipilato.com/2016/10/20/coffee-machine/)
     
 The arduino controls all functions for the coffee machine.
 Inputs include:
-- 3 momentary buttons
+- 3 Momentary Buttons
 - Switch
 - Rotary encoder with push button
 - Max6675 Thermocontroller
