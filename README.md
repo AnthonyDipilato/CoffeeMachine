@@ -18,7 +18,7 @@ I will not be held liable damages and/or injuries resulting from the use of this
 - Rotary encoder with push button
 - Max6675 Thermocontroller
 
-### Outputs include
+### Outputs
 - 3 lights (one controlled by arduino)
 - 20x4 LCD module
 - 4 relays
