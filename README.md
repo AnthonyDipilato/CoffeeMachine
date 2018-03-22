@@ -1,5 +1,5 @@
 # Coffee Machine
-![Coffee Machine](http://anthonydipilato.com/wp-content/uploads/2017/03/img_3953.jpg)
+![Coffee Machine](http://anthonydipilato.com/wp-content/uploads/2017/03/img_3953.jpg width=400)
     
 This is project is the arduino code running my home built coffee machine.
 You can see the  build log and details for the project at [http://anthonydipilato.com/2016/10/20/coffee-machine/](http://anthonydipilato.com/2016/10/20/coffee-machine/)
